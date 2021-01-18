@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 19 2021 06:23:46 GMT+0800 (CST) -->
+<!-- 最后更新时间 Tue Jan 19 2021 07:32:08 GMT+0800 (CST) -->
 1. [网传郑爽代孕生产 2 子](https://www.zhihu.com/search?q=郑爽)
 1. [张恒发文「留美是为照顾小孩」](https://www.zhihu.com/search?q=张恒)
 1. [娱乐圈那些真实的瓜](https://www.zhihu.com/search?q=娱乐圈)
@@ -24,8 +24,8 @@
 1. [电视剧《山海情》](https://www.zhihu.com/search?q=山海情)
 1. [中国 GDP 首超 100 万亿元](https://www.zhihu.com/search?q=中国gdp)
 1. [美剧《旺达幻视》](https://www.zhihu.com/search?q=旺达幻视)
-1. [《奇葩说》第七季第八期](https://www.zhihu.com/search?q=奇葩说)
 1. [山东金矿井下补给已被取走](https://www.zhihu.com/search?q=金矿事故)
+1. [《奇葩说》第七季第八期](https://www.zhihu.com/search?q=奇葩说)
 <!-- END -->
 
 历史归档 [./archives](./archives)
