@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 20 2021 19:37:03 GMT+0800 (CST) -->
+<!-- 最后更新时间 Wed Jan 20 2021 20:24:18 GMT+0800 (CST) -->
 1. [郑爽再次回应](https://www.zhihu.com/search?q=郑爽回应)
 1. [娱乐圈那些真实的瓜](https://www.zhihu.com/search?q=娱乐圈有什么真实的瓜)
 1. [郑爽录音再爆出](https://www.zhihu.com/search?q=郑爽录音)
@@ -23,9 +23,9 @@
 1. [浙大食堂惊现「耗子尾汁」](https://www.zhihu.com/search?q=浙大食堂)
 1. [郑爽诉张恒案二审开庭](https://www.zhihu.com/search?q=郑爽起诉)
 1. [Prada 终止与郑爽合作](https://www.zhihu.com/search?q=prada)
-1. [女童疑遭养母虐死案开庭](https://www.zhihu.com/search?q=郑仁)
-1. [北京大兴疫情新进展](https://www.zhihu.com/search?q=大兴疫情)
 1. [北京新增 7 例本土确诊](https://www.zhihu.com/search?q=大兴疫情)
+1. [北京大兴疫情新进展](https://www.zhihu.com/search?q=大兴疫情)
+1. [女童疑遭养母虐死案开庭](https://www.zhihu.com/search?q=郑仁)
 1. [「大寒」巧遇「腊八」](https://www.zhihu.com/search?q=大寒)
 1. [成都双流金桥检出环境阳性](https://www.zhihu.com/search?q=成都双流金桥)
 1. [抖音支付正式上线](https://www.zhihu.com/search?q=抖音支付)
