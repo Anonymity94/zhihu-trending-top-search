@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 28 2021 23:04:30 GMT+0800 (CST) -->
+<!-- 最后更新时间 Fri Jan 29 2021 00:11:32 GMT+0800 (CST) -->
 1. [《合成大西瓜》](https://www.zhihu.com/search?q=合成大西瓜)
 1. [孟佳半裸造型涉嫌抄袭](https://www.zhihu.com/search?q=孟佳)
 1. [微信状态背景图推荐](https://www.zhihu.com/search?q=微信状态背景图)
@@ -24,13 +24,7 @@
 1. [戴森球计划](https://www.zhihu.com/search?q=戴森球计划)
 1. [医生遭歹徒持械袭击去世](https://www.zhihu.com/search?q=江西伤医事件)
 1. [就地过年或提供免费电影](https://www.zhihu.com/search?q=就地过年)
-1. [女子骂社区支书遭拘留后续](https://www.zhihu.com/search?q=草包支书)
-1. [刺破手指为男友做血吊坠](https://www.zhihu.com/search?q=血吊坠)
-1. [网曝拼多多上卖宠物盲盒](https://www.zhihu.com/search?q=宠物盲盒)
-1. [2021 春运第 1 天](https://www.zhihu.com/search?q=春运)
-1. [特朗普设立前总统办公室](https://www.zhihu.com/search?q=特朗普)
-1. [「现实版樊胜美」](https://www.zhihu.com/search?q=现实版樊胜美)
-1. [甘肃通报防护林被毁调查](https://www.zhihu.com/search?q=敦煌防护林)
+1. [吴谦「台独就意味着战争」](https://www.zhihu.com/search?q=台独)
 <!-- END -->
 
 历史归档 [./archives](./archives)
