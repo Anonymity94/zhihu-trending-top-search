@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Feb 03 2021 00:11:02 GMT+0800 (CST) -->
+<!-- 最后更新时间 Wed Feb 03 2021 01:36:12 GMT+0800 (CST) -->
 1. [进击的巨人更新](https://www.zhihu.com/search?q=进击的巨人)
 1. [社交软件 Clubhouse 爆火](https://www.zhihu.com/search?q=clubhouse)
 1. [广州 2 月离婚名额已约满](https://www.zhihu.com/search?q=预约离婚)
@@ -24,6 +24,7 @@
 1. [贾平凹女儿诗歌引质疑](https://www.zhihu.com/search?q=贾平凹女儿)
 1. [学生模仿奥特曼被劝退](https://www.zhihu.com/search?q=学生模仿奥特曼)
 1. [抖音正式起诉腾讯垄断](https://www.zhihu.com/search?q=抖音起诉腾讯)
+1. [缅甸军方对政府进行改组](https://www.zhihu.com/search?q=缅甸军方)
 1. [疫情导致入睡时间延迟](https://www.zhihu.com/search?q=睡眠周期)
 <!-- END -->
 
