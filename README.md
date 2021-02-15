@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 15 2021 18:04:53 GMT+0800 (CST) -->
+<!-- 最后更新时间 Mon Feb 15 2021 19:10:32 GMT+0800 (CST) -->
 1. [情人节文案](https://www.zhihu.com/search?q=情人节文案)
 1. [唐宫夜宴](https://www.zhihu.com/search?q=唐宫夜宴)
 1. [电影《发财日记》](https://www.zhihu.com/search?q=发财日记)
@@ -24,6 +24,7 @@
 1. [茅野爱衣疑似参拜靖国神社](https://www.zhihu.com/search?q=茅野爱衣疑似参拜靖国神社)
 1. [石家庄新增 1 例本地确诊](https://www.zhihu.com/search?q=石家庄新增)
 1. [大年初四迎灶王](https://www.zhihu.com/search?q=大年初四)
+1. [有什么适合聚会的游戏](https://www.zhihu.com/search?q=聚会游戏)
 1. [异地怎么过情人节](https://www.zhihu.com/search?q=异地情人节怎么过)
 1. [唐人街探案三](https://www.zhihu.com/search?q=唐探3)
 1. [你好，李焕英](https://www.zhihu.com/search?q=李焕英)
