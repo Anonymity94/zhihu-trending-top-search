@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Feb 16 2021 00:07:03 GMT+0800 (CST) -->
+<!-- 最后更新时间 Tue Feb 16 2021 01:18:58 GMT+0800 (CST) -->
 1. [唐探 3 评价](https://www.zhihu.com/search?q=唐探3)
 1. [唐宫夜宴](https://www.zhihu.com/search?q=唐宫夜宴)
 1. [电影《发财日记》](https://www.zhihu.com/search?q=发财日记)
@@ -24,6 +24,7 @@
 1. [大年初四迎灶王](https://www.zhihu.com/search?q=大年初四)
 1. [人潮汹涌排片](https://www.zhihu.com/search?q=人潮汹涌排片)
 1. [刚果金医务人员确诊埃博拉](https://www.zhihu.com/search?q=刚果金埃博拉)
+1. [史上最贵春节档](https://www.zhihu.com/search?q=春节档电影票)
 1. [《你好，李焕英》票房大卖](https://www.zhihu.com/search?q=《你好，李焕英》)
 <!-- END -->
 
