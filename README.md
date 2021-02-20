@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Feb 21 2021 00:06:47 GMT+0800 (CST) -->
+<!-- 最后更新时间 Sun Feb 21 2021 01:18:30 GMT+0800 (CST) -->
 1. [网民「辣笔小球」被刑拘](https://www.zhihu.com/search?q=辣笔小球)
 1. [中方公布中印边境冲突消息](https://www.zhihu.com/search?q=加勒万河谷冲突事件)
 1. [比特币突破 52000 美元关口](https://www.zhihu.com/search?q=比特币)
@@ -24,6 +24,7 @@
 1. [小米回应造车](https://www.zhihu.com/search?q=小米造车)
 1. [何同学采访苹果 CEO 库克](https://www.zhihu.com/search?q=何同学采访库克)
 1. [美国毅力号成功着陆火星](https://www.zhihu.com/search?q=毅力号)
+1. [烈士子女高考最多可加 20 分](https://www.zhihu.com/search?q=高考加分)
 1. [暴雪嘉年华](https://www.zhihu.com/search?q=暴雪嘉年华)
 <!-- END -->
 
