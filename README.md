@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Feb 23 2021 05:03:49 GMT+0800 (CST) -->
+<!-- 最后更新时间 Tue Feb 23 2021 06:04:43 GMT+0800 (CST) -->
 1. [刺死女儿同桌男子被执行死刑](https://www.zhihu.com/search?q=刺死女儿同桌)
 1. [女生在货拉拉车上跳窗身亡](https://www.zhihu.com/search?q=货拉拉跳车)
 1. [进击的巨人更新](https://www.zhihu.com/search?q=进击的巨人)
