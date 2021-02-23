@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Feb 24 2021 01:27:29 GMT+0800 (CST) -->
+<!-- 最后更新时间 Wed Feb 24 2021 02:09:17 GMT+0800 (CST) -->
 1. [女生在货拉拉车上跳窗身亡](https://www.zhihu.com/search?q=货拉拉跳车)
 1. [Uzi 宣布脱离 RNG](https://www.zhihu.com/search?q=uzi)
 1. [进击的巨人更新](https://www.zhihu.com/search?q=进击的巨人)
