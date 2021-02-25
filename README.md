@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 25 2021 08:10:15 GMT+0800 (CST) -->
+<!-- 最后更新时间 Thu Feb 25 2021 09:31:49 GMT+0800 (CST) -->
 1. [货拉拉道歉](https://www.zhihu.com/search?q=货拉拉)
 1. [基金大规模下跌](https://www.zhihu.com/search?q=基金大跌)
 1. [权志龙 Jennie 被爆恋爱](https://www.zhihu.com/search?q=jennie权志龙)
@@ -24,6 +24,7 @@
 1. [中小学生禁止带手机入课堂](https://www.zhihu.com/search?q=中小学禁止带手机)
 1. [马金瑜提交最新证据](https://www.zhihu.com/search?q=马金瑜)
 1. [男子请求政府「分配对象」](https://www.zhihu.com/search?q=分配对象)
+1. [考研初试出分在即](https://www.zhihu.com/search?q=2021考研)
 1. [Uzi 宣布脱离 RNG](https://www.zhihu.com/search?q=uzi)
 <!-- END -->
 
