@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Feb 27 2021 18:04:49 GMT+0800 (CST) -->
+<!-- 最后更新时间 Sat Feb 27 2021 19:04:14 GMT+0800 (CST) -->
 1. [肖战发长文道歉](https://www.zhihu.com/search?q=肖战)
 1. [吴孟达因病救治无效去世](https://www.zhihu.com/search?q=吴孟达)
 1. [2021 考研初试成绩公布](https://www.zhihu.com/search?q=考研成绩)
