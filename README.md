@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Feb 28 2021 18:04:41 GMT+0800 (CST) -->
+<!-- 最后更新时间 Sun Feb 28 2021 19:04:08 GMT+0800 (CST) -->
 1. [肖战发长文道歉](https://www.zhihu.com/search?q=肖战)
 1. [吴孟达因病救治无效去世](https://www.zhihu.com/search?q=吴孟达)
 1. [电视剧《山河令》](https://www.zhihu.com/search?q=山河令)
