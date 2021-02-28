@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Feb 28 2021 23:03:59 GMT+0800 (CST) -->
+<!-- 最后更新时间 Mon Mar 01 2021 00:07:15 GMT+0800 (CST) -->
 1. [肖战发长文道歉](https://www.zhihu.com/search?q=肖战)
 1. [吴孟达因病救治无效去世](https://www.zhihu.com/search?q=吴孟达)
 1. [电视剧《山河令》](https://www.zhihu.com/search?q=山河令)
@@ -25,12 +25,6 @@
 1. [2021考研国家线会不会猛涨？](https://www.zhihu.com/search?q=考研国家线)
 1. [大陆将暂停进口台湾地区菠萝](https://www.zhihu.com/search?q=暂停进口菠萝)
 1. [林书豪被叫「新冠病毒」](https://www.zhihu.com/search?q=林书豪)
-1. [电影真人版《猫和老鼠》](https://www.zhihu.com/search?q=猫和老鼠)
-1. [拜登下令空袭叙利亚](https://www.zhihu.com/search?q=美国空袭叙利亚)
-1. [老师对比家长收入歧视学生](https://www.zhihu.com/search?q=老师对比家长收入)
-1. [日媒称福原爱江宏杰将分居](https://www.zhihu.com/search?q=福原爱江宏杰)
-1. [2021 考研初试成绩公布](https://www.zhihu.com/search?q=考研成绩)
-1. [老板不喜欢我要辞职吗？](https://www.zhihu.com/search?q=奇葩说)
 <!-- END -->
 
 历史归档 [./archives](./archives)
