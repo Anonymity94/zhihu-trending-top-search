@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 01 2021 10:18:06 GMT+0800 (CST) -->
+<!-- 最后更新时间 Mon Mar 01 2021 11:04:40 GMT+0800 (CST) -->
 1. [肖战发长文道歉](https://www.zhihu.com/search?q=肖战)
 1. [吴孟达因病救治无效去世](https://www.zhihu.com/search?q=吴孟达)
 1. [张小斐粉丝后援会被解散](https://www.zhihu.com/search?q=张小斐)
@@ -24,6 +24,7 @@
 1. [国家即将推出「个人养老金制度」](https://www.zhihu.com/search?q=养老金)
 1. [2021考研国家线会不会猛涨？](https://www.zhihu.com/search?q=考研国家线)
 1. [林书豪被叫「新冠病毒」](https://www.zhihu.com/search?q=林书豪)
+1. [ JDG 队员们谈论 Uzi 变菜](https://www.zhihu.com/search?q=uzi变菜)
 1. [大陆将暂停进口台湾地区菠萝](https://www.zhihu.com/search?q=暂停进口菠萝)
 <!-- END -->
 
